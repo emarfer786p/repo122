@@ -1,8 +1,5 @@
 sdfsdfd
-
-
-<<<<<<< HEAD
-sdfdsfds
+dfdsfds
 
 dfsdf
 ds
@@ -12,7 +9,3 @@ fs
 dfsdf
 sdfdsfdsfsd
 fsd
-
-
-sdfadsfds
-
